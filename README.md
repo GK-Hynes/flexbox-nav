@@ -1,6 +1,6 @@
 # Flexbox Navigation
 
-A pure flexbox navigation. Build for Wes Bos' [Flexbox course](https://flexbox.io/).
+A pure flexbox navigation. Built for Wes Bos' [Flexbox course](https://flexbox.io/).
 
 See the page live [here](https://gk-hynes.github.io/flexbox-nav/)
 
